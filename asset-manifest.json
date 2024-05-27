@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Domashki/static/css/main.8b87c91b.css",
+    "main.js": "/Domashki/static/js/main.735af0ae.js",
+    "static/js/787.66cb4309.chunk.js": "/Domashki/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Domashki/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Domashki/index.html",
+    "main.8b87c91b.css.map": "/Domashki/static/css/main.8b87c91b.css.map",
+    "main.735af0ae.js.map": "/Domashki/static/js/main.735af0ae.js.map",
+    "787.66cb4309.chunk.js.map": "/Domashki/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b87c91b.css",
+    "static/js/main.735af0ae.js"
+  ]
+}
