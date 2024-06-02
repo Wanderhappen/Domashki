@@ -1,4 +1,4 @@
-import { MessageType } from '../HW1'
+import { MessageType } from '../HW1.js'
 import s from './Message.module.css'
 
 // нужно создать правильный тип вместо any
