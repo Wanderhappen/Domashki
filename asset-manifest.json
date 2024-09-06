@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Domashki/static/css/main.5b13fa64.css",
-    "main.js": "/Domashki/static/js/main.0f9f5ba3.js",
+    "main.js": "/Domashki/static/js/main.4b51558d.js",
     "static/js/787.66cb4309.chunk.js": "/Domashki/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Domashki/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/Domashki/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -18,11 +18,11 @@
     "static/media/down.svg": "/Domashki/static/media/down.84608c11f30550bbfe9dc58dff6d4ddb.svg",
     "static/media/up.svg": "/Domashki/static/media/up.6fe14b5c077060aaac51bdc8a447c0e9.svg",
     "main.5b13fa64.css.map": "/Domashki/static/css/main.5b13fa64.css.map",
-    "main.0f9f5ba3.js.map": "/Domashki/static/js/main.0f9f5ba3.js.map",
+    "main.4b51558d.js.map": "/Domashki/static/js/main.4b51558d.js.map",
     "787.66cb4309.chunk.js.map": "/Domashki/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b13fa64.css",
-    "static/js/main.0f9f5ba3.js"
+    "static/js/main.4b51558d.js"
   ]
 }
