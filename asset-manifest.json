@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Domashki/static/css/main.6b9bbcd2.css",
-    "main.js": "/Domashki/static/js/main.024e0036.js",
+    "main.css": "/Domashki/static/css/main.5b13fa64.css",
+    "main.js": "/Domashki/static/js/main.be4a978c.js",
     "static/js/787.66cb4309.chunk.js": "/Domashki/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Domashki/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/Domashki/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,15 @@
     "static/media/checked.svg": "/Domashki/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/Domashki/index.html",
     "static/media/burger.svg": "/Domashki/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.6b9bbcd2.css.map": "/Domashki/static/css/main.6b9bbcd2.css.map",
-    "main.024e0036.js.map": "/Domashki/static/js/main.024e0036.js.map",
+    "static/media/empty.svg": "/Domashki/static/media/empty.d61837ac619e8b9fdbbd95bb3199d1c7.svg",
+    "static/media/down.svg": "/Domashki/static/media/down.84608c11f30550bbfe9dc58dff6d4ddb.svg",
+    "static/media/up.svg": "/Domashki/static/media/up.6fe14b5c077060aaac51bdc8a447c0e9.svg",
+    "main.5b13fa64.css.map": "/Domashki/static/css/main.5b13fa64.css.map",
+    "main.be4a978c.js.map": "/Domashki/static/js/main.be4a978c.js.map",
     "787.66cb4309.chunk.js.map": "/Domashki/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b9bbcd2.css",
-    "static/js/main.024e0036.js"
+    "static/css/main.5b13fa64.css",
+    "static/js/main.be4a978c.js"
   ]
 }
